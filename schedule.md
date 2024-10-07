@@ -164,6 +164,12 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 15 (Week of 2 DEC)
 
+* December 2, 3:00 PM: CGI lecture
+
+* December 4, 9:30 AM: Wolfe lecture
+
+* December 4, 3:00 PM: NetApp lecture
+
 * Guest Lecturers from Industry (TBA)
 
 ## WEEK 16 (Week of 9 DEC)
